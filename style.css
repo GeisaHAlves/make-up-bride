@@ -103,12 +103,17 @@ footer {
   margin: 15px 0 0;
 }
 
-form {
-  margin: 40px 40px;
+main {
+  width: 940px;
+  margin: 0 auto;
 }
 
-form label,
-form legend {
+form {
+  margin: 40px 0px;
+  
+}
+
+form label, form legend {
   display: block;
   font-size: 20px;
   margin: 0 0 10px;
@@ -119,6 +124,7 @@ form legend {
   margin: 0 0 20px;
   padding: 10px 25px;
   width: 50%;
+
 }
 
 .checkbox {
